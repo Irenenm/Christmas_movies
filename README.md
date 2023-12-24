@@ -6,7 +6,9 @@ I use Python to perform the data cleaning processes and Power BI to effectively 
 ## Description
 The objective of the project is to display in a simple way a ranking of the best rated Christmas movies and another ranking for the most voted Christmas movies as well as other interesting data: the year of release, the duration of the film and also the audience towards which the film is directed. movie is directed. 
 
-The project has been focused on expanding my knowledge in both Python and Power Bi. In this way, I have developed the cleaning of the dataset extracted from Kaggle in Python and I have chosen PowerBi for the visualization of the data.
+The project has been focused on expanding my knowledge in both Python and Power Bi. 
+
+In this way, I have developed the cleaning of the dataset extracted from Kaggle in Python and I have chosen PowerBi for the visualization of the data.
 
 
 
@@ -24,6 +26,10 @@ This repository contains 5 folders:
 
 
 
+
+
+
+
 # Proyecto 'Choose you Christmas movie' 
 Aprovechando la fecha en la que nos encontramos, este proyecto está centrado en el análisis de películas navideñas, explorando datos como el año de lanzamiento o la popularidad entre otros. 
 Utilizo Python para realizar los procesos de limpieza de datos y Power BI para visualizar los resultados de manera efectiva.
@@ -32,7 +38,9 @@ Utilizo Python para realizar los procesos de limpieza de datos y Power BI para v
 ## Descripción
 El objetivo del proyecto es visualizar de forma sencilla un ranking de las películas navideñas mejor puntuadas y otro ranking para las películas navideñas más votadas así como otros datos interesantes: el año de lanzamiento, la duración de la peícula y también el público hacia el que la película está dirigida. 
 
-El proyecto ha estado enfocado en ampliar mis conocimientos tanto en Python como en Power Bi. De esta forma, la limpieza del dataset extraído de Kaggle la he desarrollado en Python y he elegido PowerBi para la visualización de los datos.  
+El proyecto ha estado enfocado en ampliar mis conocimientos tanto en Python como en Power Bi. 
+
+De esta forma, la limpieza del dataset extraído de Kaggle la he desarrollado en Python y he elegido PowerBi para la visualización de los datos.  
 
 
 ## Estructura
